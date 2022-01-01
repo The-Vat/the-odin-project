@@ -1,0 +1,21 @@
+/* styles.css */
+
+.oddclass {
+    background-color: rgb(228, 182, 209);
+    font-family: Verdana, sans-serif;
+}
+
+.thirdelement {
+    font-size: 36px;
+}
+
+#secondelement {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourthelement {
+    background-color: hsl(120,73%,75%);
+    font-size: 24px;
+    font-weight: bold;
+}
